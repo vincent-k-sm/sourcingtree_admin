@@ -19,7 +19,7 @@ macOS/iOS 앱 배포 포탈. GitHub Releases + GitHub Pages + Sparkle 자동 업
 ## 구조
 
 ```
-sourcingtree-apps/
+sourcingtree_admin/
   index.html                -- 다운로드 포탈 페이지
   assets/
     style.css               -- 페이지 스타일
@@ -33,9 +33,9 @@ sourcingtree-apps/
 
 ## URL
 
-- 다운로드 페이지: https://vincent-k-sm.github.io/sourcingtree-apps/
-- Sparkle Feed (KpopTube): https://vincent-k-sm.github.io/sourcingtree-apps/apps/kpoptube-admin/appcast.xml
-- Sparkle Feed (AD Remover): https://vincent-k-sm.github.io/sourcingtree-apps/apps/ad-remover/appcast.xml
+- 다운로드 페이지: https://vincent-k-sm.github.io/sourcingtree_admin/
+- Sparkle Feed (KpopTube): https://vincent-k-sm.github.io/sourcingtree_admin/apps/kpoptube-admin/appcast.xml
+- Sparkle Feed (AD Remover): https://vincent-k-sm.github.io/sourcingtree_admin/apps/ad-remover/appcast.xml
 
 ## 배포 방법
 
@@ -69,7 +69,7 @@ sh release.sh
 7. 배포용 ZIP 재생성
 8. GitHub Release 생성 + ZIP 업로드
 9. Sparkle EdDSA 서명 생성
-10. appcast.xml 업데이트 + sourcingtree-apps에 커밋/push
+10. appcast.xml 업데이트 + sourcingtree_admin에 커밋/push
 11. Firestore 메타데이터 저장
 12. 빌드 폴더 정리
 13. 소스 프로젝트 git commit + push

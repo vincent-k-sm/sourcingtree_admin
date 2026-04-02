@@ -1,5 +1,5 @@
 const REPO_OWNER = 'vincent-k-sm';
-const REPO_NAME = 'sourcingtree-apps';
+const REPO_NAME = 'sourcingtree_admin';
 
 // 앱별 태그 prefix 매핑
 const APP_TAG_PREFIX = {
