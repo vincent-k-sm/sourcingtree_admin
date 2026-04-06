@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>LaunchBay</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Mon, 06 Apr 2026 17:20:25 +0900</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/vincent-k-sm/sourcingtree_admin/releases/download/launchbay-1.0.0-4/LaunchBay.zip" length="6764269" type="application/octet-stream" sparkle:edSignature="D37Kx6DMHsvBie5Ewf/qqisEprUaKPC0NOFRJYs86IWH7gU+Ct+DBiXGLRyOS5maUPdFIxJWuGHIOZ6K/g+aDQ=="/>
+        </item>
+    </channel>
+</rss>
