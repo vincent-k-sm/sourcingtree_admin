@@ -4,11 +4,11 @@
         <title>LaunchBay</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Wed, 08 Apr 2026 19:41:02 +0900</pubDate>
-            <sparkle:version>11</sparkle:version>
+            <pubDate>Tue, 07 Apr 2026 10:47:42 +0900</pubDate>
+            <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/vincent-k-sm/sourcingtree_admin/releases/download/launchbay-1.0.0-11/LaunchBay.zip" length="5356527" type="application/octet-stream" sparkle:edSignature="mdsAiRWBXYK5I2xy1693jV86CyXfMdUEAsnRfqEC8V6QK/Py09yBvY08nc/DSqFniM3LZRNzlm7LAClt9f44Dg=="/>
+            <enclosure url="https://github.com/vincent-k-sm/sourcingtree_admin/releases/download/launchbay-1.0.0-14/LaunchBay.zip" length="5359923" type="application/octet-stream" sparkle:edSignature="V6no4f81NX9Bp+AZwqIaI1DvvnSzHEEXf5aVWmfGjXZfvUCcPjrXAXkxTdF9kw9WKW6/73Nbiiwv0OdAF9IhDg=="/>
         </item>
     </channel>
 </rss>
