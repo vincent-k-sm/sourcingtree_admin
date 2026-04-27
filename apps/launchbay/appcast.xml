@@ -5,10 +5,10 @@
         <item>
             <title>1.0.0</title>
             <pubDate>Mon, 27 Apr 2026 15:42:31 +0900</pubDate>
-            <sparkle:version>25</sparkle:version>
+            <sparkle:version>26</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/vincent-k-sm/sourcingtree_admin/releases/download/launchbay-1.0.0-25/LaunchBay.zip" length="7669999" type="application/octet-stream" sparkle:edSignature="hyK/2wYeBBcJZsp7b4s53cM5TN1pvEG0je9MimX2KQABLFQMsSjIvhLVM+IT1AXbdy4nUCcvWyjsMMBk9WSJCg=="/>
+            <enclosure url="https://github.com/vincent-k-sm/sourcingtree_admin/releases/download/launchbay-1.0.0-26/LaunchBay.zip" length="7693508" type="application/octet-stream" sparkle:edSignature="KIaAsO2WAWgjw019ZjppY6ObsuqxqdxWXFekTB1mfqnUbZv+N3cpBsx4WwXfYP28EkMGkhxW7/2QUxQMNz+tAA=="/>
         </item>
     </channel>
 </rss>
