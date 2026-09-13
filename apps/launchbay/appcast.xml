@@ -3,12 +3,12 @@
     <channel>
         <title>LaunchBay</title>
         <item>
-            <title>1.2.9</title>
+            <title>1.2.10</title>
             <pubDate>Wed, 27 May 2026 20:47:59 +0900</pubDate>
-            <sparkle:version>144</sparkle:version>
-            <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
+            <sparkle:version>145</sparkle:version>
+            <sparkle:shortVersionString>1.2.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/vincent-k-sm/sourcingtree_admin/releases/download/launchbay-1.2.9-144/LaunchBay.zip" length="30704712" type="application/octet-stream" sparkle:edSignature="Q/EnkXjzsa3eW5TY97YRKEojv5L49BJ6QdBA3PTOrRtb8cLYhCaHK9S8SPRNva+3h0Xg3UHE3GdvLf3dkV2lAQ=="/>
+            <enclosure url="https://github.com/vincent-k-sm/sourcingtree_admin/releases/download/launchbay-1.2.10-145/LaunchBay.zip" length="30717719" type="application/octet-stream" sparkle:edSignature="ZW9J7PnXqapjxwXshOySiD95p8zEY2KdOj/0YXaSO6Cu5nQc8fEkRYZJt5MRPrYsgE1V5XwU9G69CkrVSD/TAg=="/>
         </item>
     </channel>
 </rss>
